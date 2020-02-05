@@ -1,3 +1,5 @@
 start 
+<<<<<<< HEAD
 text
 test2
+
